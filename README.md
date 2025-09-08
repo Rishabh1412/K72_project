@@ -33,5 +33,5 @@ It demonstrates modern UI design, routing, and animation techniques.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rishabh1412/k72_project.git
-   cd 
+   git clone https://github.com/Rishabh1412/K72_project.git
+   cd K72_project
